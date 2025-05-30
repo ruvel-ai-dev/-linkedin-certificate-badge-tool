@@ -42,7 +42,6 @@ Examples:
 ### 3. How it looks on a completed LinkedIn profile
 ![Profile View](profile-preview.png)
 
-(Upload screenshots with exactly these filenames so they display correctly.)
 
 ## Files Included
 
